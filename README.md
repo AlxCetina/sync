@@ -4,13 +4,13 @@
 
 **Collaborative Decision Making, Synchronized.**
 
-[![Deployment Status](https://img.shields.io/badge/Deployment-Live-2ea44f?style=for-the-badge&logo=vercel)]()
+[![Deployment Status](https://img.shields.io/badge/Deployment-Live-2ea44f?style=for-the-badge&logo=vercel)](https://sync-mvto.onrender.com)
 [![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-Real--Time-white?style=for-the-badge&logo=socket.io)](https://socket.io/)
 
-[**View Live Demo**]() • [**Report Bug**](https://github.com/your-org/sync/issues) • [**Request Feature**](https://github.com/your-org/sync/issues)
+[**View Live Demo**](https://sync-mvto.onrender.com) • [**Report Bug**](https://github.com/your-org/sync/issues) • [**Request Feature**](https://github.com/your-org/sync/issues)
 
 </div>
 
